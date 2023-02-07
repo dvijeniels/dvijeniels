@@ -1,9 +1,9 @@
 <h2 align="center">Hi there, I'm Adilet
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <h3 align="center">Software Engineer
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  from Kyrgyzstan&nbsp;&nbsp;
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Animated-Flag-Kyrgyzstan.gif" alt="Kyrgyzstan"/>
+<img height="20" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Animated-Flag-Kyrgyzstan.gif" alt="Kyrgyzstan"/>
 </h3>
 
 
